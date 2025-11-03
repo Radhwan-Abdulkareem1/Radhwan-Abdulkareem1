@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">📧 E-Mail: contact.radhwan@gmail.com</h4>
+<p align="left">📧 E-Mail: contact.radhwan@gmail.com</p>
 
 ###
 
