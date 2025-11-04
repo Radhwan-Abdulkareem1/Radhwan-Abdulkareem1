@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/radhwan-abdulkareem1/radhwan-abdulkareem1/output/snake.svg" alt="Snake animation" />
+
 
 ###
